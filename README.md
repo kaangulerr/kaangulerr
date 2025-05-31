@@ -19,6 +19,24 @@
 
 ---
 
+## 🚀 Projects
+
+- **beykozopencourse.online**: An online education platform.
+- **quicksurvey.store**: Online survey creation platform.
+
+[See all projects](https://github.com/kaangulerr)
+
+
+---
+
+## 🎯 Learning Goals
+
+- Master advanced PHP backend development
+- Deepen knowledge of AI and machine learning
+- Explore React and modern JavaScript frameworks
+
+---
+
 ## 📫 Contact
 
 <table align="center">
