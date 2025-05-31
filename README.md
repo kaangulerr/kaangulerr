@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Computer Engineering student <br>
-  🌱 Currently learning <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong>, and <strong>JavaScript</strong> <br>
+  🌱 Currently learning <strong>PHP</strong>, <strong>Python</strong>, and <strong>JavaScript</strong> <br>
   💡 Interested in web development and artificial intelligence <br>
 </p>
 
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://linkedin.com/in/kaanguler" target="_blank">linkedin.com/in/kaanguler</a></td>
+    <td><a href="https://linkedin.com/in/kaanguler" target="_blank">linkedin.com/in/kaangulerr</a></td>
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
