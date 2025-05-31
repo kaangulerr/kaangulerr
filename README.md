@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><strong>Portfolio</strong></td>
-    <td><a href="https://kaanguler.dev" target="_blank">kaanguler.dev</a></td>
+    <td><a href="https://kaangulerr.dev" target="_blank">kaanguler.dev</a></td>
   </tr>
 </table>
 
