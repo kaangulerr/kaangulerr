@@ -27,10 +27,7 @@
     <td><strong>LinkedIn</strong></td>
     <td><a href="https://linkedin.com/in/kaanguler" target="_blank">linkedin.com/in/kaangulerr</a></td>
   </tr>
-  <tr>
-    <td><strong>Portfolio</strong></td>
-    <td><a href="https://kaangulerr.dev" target="_blank">kaangulerr.dev</a></td>
-  </tr>
+  
 </table>
 
 ---
