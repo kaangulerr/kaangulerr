@@ -11,7 +11,7 @@
 <p align="center">
   🎓 Computer Engineering student <br>
   🌱 Currently learning <strong>PHP</strong>, <strong>Python</strong> and <strong>JavaScript</strong> <br>
-  💡 Passionate about web development, artificial intelligence, and cybersecurity <br>
+  💡 Passionate about web development, artificial intelligence<br>
 </p>
 
 ---
