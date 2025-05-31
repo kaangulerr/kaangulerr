@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Kaan Güler 👋</h1>
+<h1 align="center">
+  Hi, I'm Kaan Güler 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand" />
+</h1>
 
 <p align="center">
   🎓 Computer Engineering student <br>
