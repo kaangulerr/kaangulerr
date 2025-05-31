@@ -1,13 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Kaan Güler</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
+<h1 align="center">Hi, I'm Kaan Güler 👋</h1>
 
 <p align="center">
   🎓 Computer Engineering student <br>
   🌱 Currently learning <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong>, and <strong>JavaScript</strong> <br>
-  💡 Passionate about web development and artificial intelligence <br>
+  💡 Interested in web development and artificial intelligence <br>
 </p>
 
 ---
@@ -20,26 +16,25 @@
 
 ---
 
-## 📬 Get in Touch
+## 📫 Contact
 
-<div align="center">
-
-<a href="mailto:kaangulerr4@gmail.com">
-  <img src="https://img.shields.io/badge/E-mail-kaangulerr4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/kaanguler" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-kaanguler-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://kaanguler.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-kaanguler.dev-000000?style=flat-square&logo=About.me&logoColor=white" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:kaangulerr4@gmail.com">kaangulerr4@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://linkedin.com/in/kaanguler" target="_blank">linkedin.com/in/kaanguler</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://kaanguler.dev" target="_blank">kaanguler.dev</a></td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile! Feel free to connect ✨
+  Thanks for visiting! Feel free to connect with me 🤝
 </p>
