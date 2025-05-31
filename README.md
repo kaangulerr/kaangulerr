@@ -7,7 +7,7 @@
 <p align="center">
   🎓 Computer Engineering student <br>
   🌱 Currently learning <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong>, and <strong>JavaScript</strong> <br>
-  💡 Passionate about web development, artificial intelligence<br>
+  💡 Passionate about web development and artificial intelligence <br>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 💻 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,python,js,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,html,css,mysql" />
 </div>
 
 ---
