@@ -5,12 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USER_ID?s=400" width="150" style="border-radius: 50%;" alt="Profile Picture">
-</p>
-
-<p align="center">
   🎓 Computer Engineering student <br>
-  🌱 Currently learning <strong>PHP</strong>, <strong>Python</strong> and <strong>JavaScript</strong> <br>
+  🌱 Currently learning <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong>, and <strong>JavaScript</strong> <br>
   💡 Passionate about web development, artificial intelligence<br>
 </p>
 
@@ -19,7 +15,7 @@
 ## 💻 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,python,js,git,linux" />
 </div>
 
 ---
@@ -46,14 +42,6 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🎯 Short-Term Goals
-
-- 🌱 Improve my skills in PHP, Python, and JavaScript
-- 🤝 Collaborate on open-source projects
-- 🌐 Build a personal portfolio website
 
 ---
 
