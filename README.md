@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://linkedin.com/in/kaanguler" target="_blank">linkedin.com/in/kaangulerr</a></td>
+    <td><a href="https://linkedin.com/in/kaangulerr" target="_blank">linkedin.com/in/kaangulerr</a></td>
   </tr>
   
 </table>
