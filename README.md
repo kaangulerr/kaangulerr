@@ -24,7 +24,7 @@
 - **beykozopencourse.online**: An online education platform.
 - **quicksurvey.store**: Online survey creation platform.
 
-[See all projects](https://github.com/kaangulerr)
+[See all projects](https://github.com/kaangulerr?tab=repositories)
 
 
 ---
