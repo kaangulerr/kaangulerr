@@ -5,8 +5,8 @@
 
 <p align="center">
   🎓 Computer Engineering student <br>
-  🌱 Currently learning <strong>Java Backend Development</strong> and <strong>Low-Code (Mendix)</strong> <br>
-  💡 Interested in scalable web systems and enterprise solutions <br>
+  🌱 Currently learning <strong>Java (Backend)</strong>, <strong>PHP</strong>, <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>Mendix</strong> <br>
+  💡 Interested in web development, artificial intelligence, and enterprise solutions <br>
 </p>
 
 ---
@@ -14,9 +14,9 @@
 ## 💻 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,js,python,mysql,html,css" />
-  <br>
-  <img src="https://img.shields.io/badge/Mendix-48B0E5?style=for-the-badge&logo=mendix&logoColor=white" alt="Mendix" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,mysql" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Mendix-025590?style=flat-square&logo=mendix&logoColor=white" alt="Mendix" height="35" />
 </div>
 
 ---
@@ -32,10 +32,11 @@
 
 ## 🎯 Learning Goals
 
-- ☕ **Mastering Java & Spring Boot:** Building robust and scalable backend architectures.
-- 🚀 **Low-Code Development:** Exploring rapid application delivery with Mendix.
-- 🧠 **AI Integration:** Implementing machine learning models into web applications.
-- 🏗️ **Microservices:** Learning to design and manage distributed systems.
+- ☕ Master Java backend development and architectures
+- 🐘 Advance in PHP backend development
+- 🧠 Deepen knowledge of AI and machine learning
+- 🚀 Explore rapid application delivery with Mendix
+- 🌐 Explore React and modern JavaScript frameworks
 
 ---
 
