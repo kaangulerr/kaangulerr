@@ -5,7 +5,7 @@
 
 <p align="center">
   🎓 Computer Engineering student <br>
-  🌱 Currently learning <strong>Java</strong>, <strong>RESTful APIs</strong>, <strong>Microservice Architecture</strong>, <strong>PHP</strong>, <strong>Python</strong>, and <strong>JavaScript</strong> <br>
+  🌱 Currently learning <strong>Java</strong>, <strong>RESTful APIs</strong>, <strong>Microservice Architecture</strong> <br>
   💡 Interested in web development and backend development <br>
 </p>
 
