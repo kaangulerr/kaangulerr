@@ -1,149 +1,114 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   > whoami                                                ║
-║   Kaan Güler — Backend & Web Developer in the making     ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%3C+Kaan+G%C3%BCler+%2F%3E;Backend+%26+Web+Developer;Java+%7C+PHP+%7C+Python+%7C+JS" alt="Typing SVG" />
 
-</div>
+<br/>
 
-<div align="center">
-
-# `< Kaan Güler />`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Backend+%26+Web+Developer;Java+%7C+PHP+%7C+Python+%7C+JavaScript;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/CS%20Student-0d1117?style=flat-square&color=00d9ff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Backend%20Dev-0d1117?style=flat-square&color=00d9ff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-0d1117?style=flat-square&color=00d9ff&labelColor=0d1117" />
 
 </div>
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaangulerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="420" />
 
 ### 🧑‍💻 About Me
 
 ```java
 public class Kaan {
-    String role     = "CS Student & Developer";
-    String[] focus  = {"Backend", "Web Dev", "AI"};
-    String learning = "Java · RESTful APIs · Microservices";
-    boolean openTo  = true; // new opportunities
+    String  role      = "Computer Engineering Student";
+    String  focus     = "Backend Development & Web";
+    String[] learning = { "Java", "RESTful APIs", "Microservice Architecture",
+                          "PHP", "Python", "JavaScript" };
+    boolean openToWork = true;
 }
 ```
 
-<br clear="right"/>
-
 ---
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 **Backend & Architecture**
 
-![REST API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
+<img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white"/>
 
-**Database & Tools**
+**Database & Platforms**
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Mendix](https://img.shields.io/badge/Mendix-0595DB?style=for-the-badge&logo=mendix&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mendix-0595DB?style=for-the-badge&logo=mendix&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 beykozopencourse.online</h3>
-      <p>An online education platform built to make learning accessible.</p>
-      <a href="https://beykozopencourse.online">
-        <img src="https://img.shields.io/badge/Live_Site-00D9FF?style=flat-square&logo=vercel&logoColor=black" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📊 quicksurvey.store</h3>
-      <p>Online survey creation platform for fast and easy data collection.</p>
-      <a href="https://quicksurvey.store">
-        <img src="https://img.shields.io/badge/Live_Site-00D9FF?style=flat-square&logo=vercel&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛍️ Miragé</h3>
-      <p>A modern e-commerce platform with a sleek shopping experience.</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Link_Coming_Soon-555?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🏙️ Smart City Traffic Management</h3>
-      <p>An intelligent traffic management system for smarter urban mobility.</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Link_Coming_Soon-555?style=flat-square&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Link |
+|--------|-------------|------|
+| 🎓 **beykozopencourse.online** | Online education platform | [Visit](https://beykozopencourse.online) |
+| 📊 **quicksurvey.store** | Online survey creation platform | [Visit](https://quicksurvey.store) |
+| 🛍️ **Miragé** | Modern e-commerce platform | *coming soon* |
+| 🏙️ **Smart City Traffic Management** | Intelligent urban traffic management system | *coming soon* |
 
 <div align="center">
 
-[![All Projects](https://img.shields.io/badge/See_All_Projects-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaangulerr?tab=repositories)
+[![All Projects](https://img.shields.io/badge/See%20All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaangulerr?tab=repositories)
 
 </div>
 
 ---
 
-## 🎯 Learning Roadmap
+### 🎯 Learning Roadmap
 
 ```
-[████████████░░░]  Java Backend Development     → Spring Boot, Design Patterns
-[███████░░░░░░░░]  Microservice Architecture    → Docker, API Gateway
-[█████████░░░░░░]  RESTful API Design           → Best Practices, Security
-[████░░░░░░░░░░░]  React & Modern JS            → Component-Driven UI
-[██░░░░░░░░░░░░░]  AI & Machine Learning        → Deep Dive Coming Soon
+[████████████░░░]  Java Backend Development    → Spring Boot, Design Patterns
+[███████████░░░░]  Microservice Architecture   → Docker, API Gateway
+[█████████░░░░░░]  RESTful API Design          → Best Practices, Security
+[████████░░░░░░░]  React & Modern JavaScript   → Component-Driven UI
+[████░░░░░░░░░░░]  AI & Machine Learning       → Deep Dive Incoming
 ```
 
 ---
 
-## 📫 Let's Connect
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/kaangulerr4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaangulerr4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/kaangulerr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaangulerr)
-[![GitHub](https://img.shields.io/badge/@kaangulerr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaangulerr)
+<img src="https://github-readme-stats.vercel.app/api?username=kaangulerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaangulerr&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="160"/>
 
 </div>
 
 ---
 
+### 📫 Contact
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaangulerr&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<a href="mailto:kaangulerr4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kaangulerr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/kaangulerr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kaangulerr&style=flat-square&color=00d9ff&label=Profile+Views"/>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kaangulerr&style=flat-square&color=00d9ff&label=Profile+Views)
 
 *`// Thanks for visiting — feel free to connect or collaborate 🤝`*
 
