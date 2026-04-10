@@ -21,10 +21,10 @@
 
 ## 🚀 Projects
 
-- **beykozopencourse.online**: An online education platform. — [Visit](https://beykozopencourse.online)
-- **quicksurvey.store**: Online survey creation platform. — [Visit](https://quicksurvey.store)
-- **Miragé**: Modern e-commerce platform. — *link coming soon*
-- **Smart City Traffic Management System**: Intelligent urban traffic management system. — *link coming soon*
+- **beykozopencourse.online**: An online education platform. 
+- **quicksurvey.store**: Online survey creation platform.
+- **Miragé**: Modern e-commerce platform.
+- **Smart City Traffic Management System**: Intelligent urban traffic management system. 
 
 [See all projects](https://github.com/kaangulerr?tab=repositories)
 
